@@ -20,6 +20,6 @@ public class OrderService {
 
     public Order finById(Long id){
        Optional<Order> obj = repository.findById(id);
-       return obj.get();
+        return obj.orElse(null);
     }
 }
