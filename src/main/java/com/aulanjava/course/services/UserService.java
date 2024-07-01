@@ -20,7 +20,8 @@ public class UserService {
 
     public User finById(Long id){
        Optional<User> obj = repository.findById(id);
-       return obj.get();
+        User user = obj.get();
+        return user;
     }
 
     public User insert(User obj){
