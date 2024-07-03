@@ -94,8 +94,5 @@ Para executar este projeto, siga os seguintes passos:
 2. Navegue até o diretório do projeto: `cd springboot3-workshop-jpa`
 3. Execute o projeto: `./mvnw spring-boot:run`
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
