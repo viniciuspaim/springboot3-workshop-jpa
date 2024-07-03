@@ -90,7 +90,7 @@ Tratamento de exceções para a operação `update`.
 ## Como Executar
 Para executar este projeto, siga os seguintes passos:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/springboot3-workshop-jpa.git`
+1. Clone o repositório: `git clone https://github.com/vinaoc/springboot3-workshop-jpa.git`
 2. Navegue até o diretório do projeto: `cd springboot3-workshop-jpa`
 3. Execute o projeto: `./mvnw spring-boot:run`
 
