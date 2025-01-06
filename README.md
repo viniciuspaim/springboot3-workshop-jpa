@@ -1,6 +1,6 @@
 # SpringBoot3 Workshop JPA
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vinaoc/springboot3-workshop-jpa/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/viniciuspaim/springboot3-workshop-jpa/blob/main/LICENSE)
 
 Este projeto é uma aplicação de exemplo para um workshop sobre Spring Boot 3 e JPA ministrado pelo professor Nélio Alves. 
 O objetivo é demonstrar a criação e manipulação de entidades, configuração de banco de dados, repositórios JPA, injeção de dependências e tratamento de exceções.
@@ -72,14 +72,14 @@ Tratamento de exceções para a operação `update`.
 ## Como Executar
 Para executar este projeto, siga os seguintes passos:
 
-1. Clone o repositório: `git clone https://github.com/vinaoc/springboot3-workshop-jpa.git`
+1. Clone o repositório: `git clone https://github.com/viniciuspaim/springboot3-workshop-jpa.git`
 2. Navegue até o diretório do projeto: `cd springboot3-workshop-jpa`
 3. Execute o projeto: `./mvnw spring-boot:run`
 
 ## Modelagem do Projeto
-![image](https://github.com/vinaoc/springboot3-workshop-jpa/assets/86624417/e831081c-296b-48bb-b2d1-d3ed996ef9c7)
+![image](https://github.com/viniciuspaim/springboot3-workshop-jpa/assets/86624417/e831081c-296b-48bb-b2d1-d3ed996ef9c7)
 
-![image](https://github.com/vinaoc/springboot3-workshop-jpa/assets/86624417/3a060c2a-ac96-4aa8-9a83-39cef4186cad)
+![image](https://github.com/viniciuspaim/springboot3-workshop-jpa/assets/86624417/3a060c2a-ac96-4aa8-9a83-39cef4186cad)
 
 
 ## Licença
